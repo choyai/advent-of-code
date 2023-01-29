@@ -1,0 +1,3 @@
+[submodule "advent-of-code-2022"]
+	path = advent-of-code-2022
+	url = git@github.com:choyai/advent-of-code-2022.git
